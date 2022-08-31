@@ -5,4 +5,6 @@
 "DenyDeviceIDsRetroactive"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DeviceInstall\Restrictions\DenyDeviceIDs]
-"17"="SWC\VEN_AVOL&AID_0400"
+"1"="ROOT\\Nahimic_Mirroring"
+"2"="SWC\\VEN_AVOL&AID_0300"
+"3"="SWC\\VEN_AVOL&AID_0400"
